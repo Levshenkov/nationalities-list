@@ -4,7 +4,7 @@ const nameMap = {}
 const idMap = {}
 const mapIdAndName = country => {
   nameMap[country.name.toLowerCase()] = country.id
-  idMap[country.id.toLowerCase()] = country.name
+  idMap[country.id] = country.name
 }
 data.forEach(mapIdAndName)
 
@@ -24,7 +24,7 @@ exports.getId = function getId(name) {
 }
 
 exports.getName = function getName(id) {
-  return idMap[id.toLowerCase()]
+  return idMap[id]
 }
 
 exports.getNames = function getNames() {
