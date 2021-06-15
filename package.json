@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Denys Levshenkov",
+    "email": "levshenkov.denys@gmail.com"
+  },
+  "files": [
+    "data.json"
+  ],
+  "homepage": "https://github.com/Levshenkov/nationalities-ids.git",
+  "main": "nationalities-ids.js",
+  "name": "nationalities-ids",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Levshenkov/nationalities-ids.git"
+  },
+  "version": "1.0.0"
+}
