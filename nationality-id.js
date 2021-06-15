@@ -2,12 +2,11 @@ const data = require('./data.json')
 
 const nameMap = {}
 const idMap = {}
-data.forEach(mapIdAndName)
-
 const mapIdAndName = country => {
   nameMap[country.name.toLowerCase()] = country.id
   idMap[country.id.toLowerCase()] = country.name
 }
+data.forEach(mapIdAndName)
 
 exports.overwrite = function overwrite(countries) {
   if (!countries || !countries.length) return
