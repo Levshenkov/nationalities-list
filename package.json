@@ -6,12 +6,12 @@
   "files": [
     "data.json"
   ],
-  "homepage": "https://github.com/Levshenkov/nationalities-ids.git",
-  "main": "nationalities-ids.js",
-  "name": "nationalities-ids",
+  "homepage": "https://github.com/Levshenkov/nationality-id.git",
+  "main": "nationality-id.js",
+  "name": "nationality-id",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Levshenkov/nationalities-ids.git"
+    "url": "git@github.com:Levshenkov/nationaly-id.git"
   },
   "version": "1.0.0"
 }
