@@ -9,9 +9,6 @@
   "homepage": "https://github.com/Levshenkov/nationality-id.git",
   "main": "nationality-id.js",
   "name": "nationality-id",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:Levshenkov/nationaly-id.git"
-  },
+  "repository": "git://github.com/Levshenkov/nationaly-id.git",
   "version": "1.0.0"
 }
