@@ -1,24 +1,25 @@
-# nationalities-id-and-codes
+# nationalities-list
 
 ## Example
 
 ``` js
-const { getId, getName } = require('nationalities-id-and-codes')
+const { getId, getNationality } = require('nationalities-list')
 
-console.log(getName(777)) // Taiwan
+console.log(getNationality(777, 'en')) // Taiwan
 console.log(getId('Taiwan')) // 777
 console.log(getId('Nowhere-to-be-found-land')) // undefined
 ```
 
-And how to change the name of a country 
+And how to change the data 
 ``` js
-const { overwrite, getName } = require('nationalities-id-and-codes')
+const { overwrite, getNationality } = require('nationalities-list')
 overwrite([{
   id: 777,
-  name: 'Taiwan'
+  nationalityEN: 'Taiwan',
+  nationalityDE: 'Taiwan'
 }])
 
-console.log(getName(777)) // Taiwan
+console.log(getNationality(777, 'de')) // Taiwan
 ```
 
 ## Methods
@@ -26,45 +27,46 @@ console.log(getName(777)) // Taiwan
 Usage:
 
 ``` js
-const nationalitiesList = require('nationalities-ids')
+const nationalitiesList = require('nationalities-list')
 ```
 All input is case-insensitive.
 
 ### overwrite(countries)
 
-Expects an array of nationalities objects containing `id` and `name` properties.
+Expects an array of nationalities objects containing `id` and `nationalityEN/nationalityDE` properties.
 ``` js
 [{
   id: 777,
-  name: 'Taiwan'
+  nationalityEN: 'Taiwan',
+  nationalityDE: 'Taiwan'
 }]
 ```
 
-### getName(code)
+### getnationality(code, lang)
 
-Expects a nationality Id.  
-Returns the name for that country.  
+Expects a nationality Id and lang('en'/'de').  
+Returns the nationality for that country.  
 If not found, it returns `undefined`.  
 
-### getId(name)
+### getId(nationality)
 
-Expects the English nationality name.  
+Expects the English nationality nationality.  
 Returns the Id for that nationality.  
 If not found, it returns `undefined`.  
 
-### getNames()
+### getNationalities(lang)
 
-Returns an array of all nationality names.
+Returns an array of all nationality Nationalities.
 
 ### getIds()
 
 Returns an array of all nationalities ids.
 
-### getNameList()
+### getNationalityList(lang)
 
-Returns a key-value object of all nationalities using the name as key.
+Returns a key-value object of all nationalities using the nationality as key.
 
-### getIdList()
+### getIdList(lang)
 
 Returns a key-value object of all nationalities using the Id as key.
 

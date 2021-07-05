@@ -6,9 +6,9 @@
   "files": [
     "data.json"
   ],
-  "homepage": "https://github.com/Levshenkov/nationality-id.git",
-  "main": "nationality-id.js",
-  "name": "nationality-id",
-  "repository": "git://github.com/Levshenkov/nationaly-id.git",
+  "homepage": "https://github.com/Levshenkov/nationalities-list.git",
+  "main": "nationalities-list.js",
+  "name": "nationalities-list",
+  "repository": "git://github.com/Levshenkov/nationalities-list.git",
   "version": "1.0.0"
 }
