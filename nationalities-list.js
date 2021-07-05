@@ -37,14 +37,18 @@ exports.getNationality = function getNationality(id, lang) {
 }
 
 exports.getNationalities = function getNationalities(lang) {
-  return data.map(function (object) {
-    switch (lang) {
-      case 'en':
-        return object.nationalityEN
-      case 'de':
-        return object.nationalityDE
-    }
-  })
+  return data
+    .map(function (object) {
+      switch (lang) {
+        case 'en':
+          return object.nationalityEN
+        case 'de':
+          return object.nationalityDE
+      }
+    })
+    .sort(function (a, b) {
+      return a.localeCompare(b)
+    })
 }
 
 exports.getIds = function getIds() {
