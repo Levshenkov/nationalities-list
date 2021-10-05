@@ -33,18 +33,24 @@ All input is case-insensitive.
 
 ### overwrite(countries)
 
-Expects an array of nationalities objects containing `id` and `nationalityEN/nationalityDE` properties.
+Expects an array of nationalities objects containing `id` and `nationalityEN/nationalityDE/nationalitySV/nationalityNL` properties.
 ``` js
 [{
-  id: 777,
-  nationalityEN: 'Taiwan',
-  nationalityDE: 'Taiwan'
+  id: 10,
+  nationalityEN: 'Antiguan',
+  nationalityDE: 'Antiguanisch',
+  nationalitySV: 'antiguanska',
+  nationalityNL: 'Antiguan'
 }]
 ```
 
 ### getnationality(code, lang)
+en - English
+de - German
+sv - Swedish
+nl - Dutch
 
-Expects a nationality Id and lang('en'/'de').  
+Expects a nationality Id and lang('en'/'de'/'sv'/'nl').  
 Returns the nationality for that country.  
 If not found, it returns `undefined`.  
 

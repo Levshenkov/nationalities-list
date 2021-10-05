@@ -2,13 +2,21 @@ const data = require('./data.json')
 
 const nationalityMapEN = {}
 const nationalityMapDE = {}
+const nationalityMapSV = {}
+const nationalityMapNL = {}
 const idMapEN = {}
 const idMapDE = {}
+const idMapSV = {}
+const idMapNL = {}
 const mapData = object => {
-  nationalityMapEN[object.nationalityEN.toLowerCase()] = object.id
-  nationalityMapDE[object.nationalityDE.toLowerCase()] = object.id
-  idMapEN[object.id] = object.nationalityEN
-  idMapDE[object.id] = object.nationalityDE
+  nationalityMapEN[object.nationality.en.toLowerCase()] = object.id
+  nationalityMapDE[object.nationality.de.toLowerCase()] = object.id
+  nationalityMapSV[object.nationality.sv.toLowerCase()] = object.id
+  nationalityMapNL[object.nationality.nl.toLowerCase()] = object.id
+  idMapEN[object.id] = object.nationality.en
+  idMapDE[object.id] = object.nationality.de
+  idMapSV[object.id] = object.nationality.sv
+  idMapNL[object.id] = object.nationality.nl
 }
 data.forEach(mapData)
 
@@ -24,7 +32,12 @@ exports.overwrite = function overwrite(objects) {
 }
 
 exports.getId = function getId(nationality) {
-  return nationalityMapEN[nationality.toLowerCase()] || nationalityMapDE[nationality.toLowerCase()]
+  return (
+    nationalityMapEN[nationality.toLowerCase()] ||
+    nationalityMapDE[nationality.toLowerCase()] ||
+    nationalityMapSV[nationality.toLowerCase()] ||
+    nationalityMapNL[nationality.toLowerCase()]
+  )
 }
 
 exports.getNationality = function getNationality(id, lang) {
@@ -33,6 +46,10 @@ exports.getNationality = function getNationality(id, lang) {
       return idMapEN[id]
     case 'de':
       return idMapDE[id]
+    case 'sv':
+      return idMapSV[id]
+    case 'nl':
+      return idMapNL[id]
   }
 }
 
@@ -41,9 +58,13 @@ exports.getNationalities = function getNationalities(lang) {
     .map(function (object) {
       switch (lang) {
         case 'en':
-          return object.nationalityEN
+          return object.nationality.en
         case 'de':
-          return object.nationalityDE
+          return object.nationality.de
+        case 'sv':
+          return object.nationality.sv
+        case 'nl':
+          return object.nationality.nl
       }
     })
     .sort(function (a, b) {
@@ -63,6 +84,10 @@ exports.getIdList = function getIdList(lang) {
       return idMapEN
     case 'de':
       return idMapDE
+    case 'sv':
+      return idMapSV
+    case 'nl':
+      return idMapNL
   }
 }
 
@@ -72,6 +97,10 @@ exports.getNationalityList = function getNationalityList(lang) {
       return nationalityMapEN
     case 'de':
       return nationalityMapDE
+    case 'sv':
+      return nationalityMapSV
+    case 'nl':
+      return nationalityMapNL
   }
 }
 
