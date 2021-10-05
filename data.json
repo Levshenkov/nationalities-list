@@ -1,16 +1,16 @@
-[{"id":1,"nationality":{"en":"Afghani","de":"Afghanisch","sv":"Afghanska","nl":"Afghaans"}},
-  {"id":2,"nationality":{"en":"Ålandic","de":"Åländisch","sv":"åländska","nl":"Ålandisch"}},
-  {"id":3,"nationality":{"en":"Albanian","de":"Albanisch","sv":"albanska","nl":"Albanees"}},
-  {"id":4,"nationality":{"en":"Algerian","de":"Algerisch","sv":"algeriska","nl":"Algerijns"}},
-  {"id":272,"nationality":{"en":"American","de":"Amerikanisch","sv":"amerikanska","nl":"Amerikaans"}},
-  {"id":5,"nationality":{"en":"American Samoan","de":"Amerikanisch Samoanisch","sv":"amerikanska samoanerna","nl":"Amerikaans-Samoaans"}},
-  {"id":6,"nationality":{"en":"Andorran","de":"Andorranisch","sv":"andorranska","nl":"Andorrees"}},
-  {"id":7,"nationality":{"en":"Angolan","de":"Angolanisch","sv":"angolanska","nl":"Angolas"}},
-  {"id":8,"nationality":{"en":"Anguillan","de":"Anguillanisch","sv":"anguillanska","nl":"Angulaans"}},
-  {"id":9,"nationality":{"en":"Antarctic","de":"Antarktisch","sv":"antarktis","nl":"Antarctisch"}}
-  ,{"id":10,"nationality":{"en":"Antiguan","de":"Antiguanisch","sv":"antiguanska","nl":"Antiguan"}}
-  ,{"id":11,"nationality":{"en":"Argentine","de":"Argentinisch","sv":"argentinska","nl":"Argentijns"}}
-  ,{"id":12,"nationality":{"en":"Armenian","de":"Armenisch","sv":"Armeniska","nl":" Armeens"}}
+[{"id":1,"nationality":{"en":"Afghani","de":"Afghanisch","sv":"Afghaner","nl":"Afghaans"}},
+  {"id":2,"nationality":{"en":"Ålandic","de":"Åländisch","sv":"Åländsk","nl":"Ålandisch"}},
+  {"id":3,"nationality":{"en":"Albanian","de":"Albanisch","sv":"Alban","nl":"Albanees"}},
+  {"id":4,"nationality":{"en":"Algerian","de":"Algerisch","sv":"Algerier","nl":"Algerijns"}},
+  {"id":272,"nationality":{"en":"American","de":"Amerikanisch","sv":"Amerikan","nl":"Amerikaans"}},
+  {"id":5,"nationality":{"en":"American Samoan","de":"Amerikanisch Samoanisch","sv":"amerikan samoanerna","nl":"Amerikaans-Samoaans"}},
+  {"id":6,"nationality":{"en":"Andorran","de":"Andorranisch","sv":"Andorran","nl":"Andorrees"}},
+  {"id":7,"nationality":{"en":"Angolan","de":"Angolanisch","sv":"Angolan","nl":"Angolas"}},
+  {"id":8,"nationality":{"en":"Anguillan","de":"Anguillanisch","sv":"Anguillan","nl":"Angulaans"}},
+  {"id":9,"nationality":{"en":"Antarctic","de":"Antarktisch","sv":"Antarktis","nl":"Antarctisch"}}
+  ,{"id":10,"nationality":{"en":"Antiguan","de":"Antiguanisch","sv":"Antiguan","nl":"Antiguan"}}
+  ,{"id":11,"nationality":{"en":"Argentine","de":"Argentinisch","sv":"Argentina","nl":"Argentijns"}}
+  ,{"id":12,"nationality":{"en":"Armenian","de":"Armenisch","sv":"Armenier","nl":" Armeens"}}
   ,{"id":13,"nationality":{"en":"Arubian","de":"Arubisch","sv":"Arubian","nl":"Arubisch"}}
   ,{"id":14,"nationality":{"en":"Australian","de":"Australisch","sv":"Australian","nl":"Australisch"}}
   ,{"id":15,"nationality":{"en":"Austrian","de":"Österreichisch","sv":"Austrian","nl":"Oostenrijks"}}
@@ -35,28 +35,28 @@
   ,{"id":39,"nationality":{"en":"Bulgarian","de":"Bulgarisch","sv":"Bulgarian","nl":"Bulgaars"}}
   ,{"id":40,"nationality":{"en":"Burkinabe","de":"Burkinisch","sv":"Burkinabe","nl":"Burkinabe"}}
   ,{"id":41,"nationality":{"en":"Burundian","de":"Burundisch","sv":"Burundian","nl":"Burund"}}
-  ,{"id":43,"nationality":{"en":"Cambodian","de":"Kambodschaner","sv":"Kambodjanska","nl":"Cambodjaans"}}
-  ,{"id":44,"nationality":{"en":"Cameroonian","de":"Kamerunisch","sv":"Kamerunska","nl":"Kameroen"}}
-  ,{"id":45,"nationality":{"en":"Canadian","de":"Kanadisch","sv":"Kanadensiska","nl":"Canadees"}}
-  ,{"id":42,"nationality":{"en":"Cape Verdean","de":"Kapverdier","sv":"Kapverdianska","nl":"Kaapverdiaans"}}
-  ,{"id":46,"nationality":{"en":"Caymanian","de":"Kaimanisch","sv":"Caymanska","nl":"Caymanisch"}}
-  ,{"id":47,"nationality":{"en":"Central African","de":"Zentralafrikaner","sv":"Centralafrikanska","nl":"Centraal-Afrikaans"}}
-  ,{"id":48,"nationality":{"en":"Chadian","de":"Tschadisch","sv":"Tchadiska","nl":"Tsjaadisch"}}
-  ,{"id":49,"nationality":{"en":"Chilean","de":"Chilenisch","sv":"Chilenska","nl":"Chileens"}}
-  ,{"id":50,"nationality":{"en":"Chinese","de":"Chinesisch","sv":"Kinesiska","nl":"Chinees"}}
-  ,{"id":51,"nationality":{"en":"Christmas Islander","de":"Weihnachtsinsulaner","sv":"Julön","nl":"Christmas Islander"}}
+  ,{"id":43,"nationality":{"en":"Cambodian","de":"Kambodschaner","sv":"Kambodjan","nl":"Cambodjaans"}}
+  ,{"id":44,"nationality":{"en":"Cameroonian","de":"Kamerunisch","sv":"Kamerunsk","nl":"Kameroen"}}
+  ,{"id":45,"nationality":{"en":"Canadian","de":"Kanadisch","sv":"Kanadensare","nl":"Canadees"}}
+  ,{"id":42,"nationality":{"en":"Cape Verdean","de":"Kapverdier","sv":"Kap Verdian","nl":"Kaapverdiaans"}}
+  ,{"id":46,"nationality":{"en":" ","de":"Kaimanisch","sv":"Caymanskt","nl":"Caymanisch"}}
+  ,{"id":47,"nationality":{"en":"Central African","de":"Zentralafrikaner","sv":"Centralafrikansk","nl":"Centraal-Afrikaans"}}
+  ,{"id":48,"nationality":{"en":"Chadian","de":"Tschadisch","sv":"Tchadian","nl":"Tsjaadisch"}}
+  ,{"id":49,"nationality":{"en":"Chilean","de":"Chilenisch","sv":"Chilenare","nl":"Chileens"}}
+  ,{"id":50,"nationality":{"en":"Chinese","de":"Chinesisch","sv":"Kinesisk","nl":"Chinees"}}
+  ,{"id":51,"nationality":{"en":"Christmas Islander","de":"Weihnachtsinsulaner","sv":"Christmas Islander","nl":"Christmas Islander"}}
   ,{"id":52,"nationality":{"en":"Cocossian","de":"Kokosnisch","sv":"Cocossian","nl":"Cocossian"}}
-  ,{"id":53,"nationality":{"en":"Colombian","de":"Kolumbianer","sv":"Colombianska","nl":"Colombiaanse "}}
-  ,{"id":55,"nationality":{"en":"Comoran","de":"Komoraner","sv":"Komorerna","nl":"Comoraan"}}
-  ,{"id":56,"nationality":{"en":"Congolese","de":"Kongolese","sv":"Kongolesiska","nl":"Congolees"}}
-  ,{"id":57,"nationality":{"en":"Congolese (DRC)","de":"Kongolese (DRC)","sv":"Kongolesiska (DRK)","nl":"Congolees (DRC)"}}
+  ,{"id":53,"nationality":{"en":"Colombian","de":"Kolumbianer","sv":"Colombian","nl":"Colombiaanse "}}
+  ,{"id":55,"nationality":{"en":"Comoran","de":"Komoraner","sv":"Komoran","nl":"Comoraan"}}
+  ,{"id":56,"nationality":{"en":"Congolese","de":"Kongolese","sv":"Kongol","nl":"Congolees"}}
+  ,{"id":57,"nationality":{"en":"Congolese (DRC)","de":"Kongolese (DRC)","sv":"Kongol (DRK)","nl":"Congolees (DRC)"}}
   ,{"id":58,"nationality":{"en":"Cook Islander","de":"Cook-Insulaner","sv":"Cook Islander","nl":"Cook Islander"}}
-  ,{"id":59,"nationality":{"en":"Costa Rican","de":"Costa Ricaner","sv":"Costa Rica","nl":"Costa Rican"}}
-  ,{"id":61,"nationality":{"en":"Croatian","de":"Kroatisch","sv":"Kroatiska","nl":"Kroatisch"}}
+  ,{"id":59,"nationality":{"en":"Costa Rican","de":"Costa Ricaner","sv":"Costa Rican","nl":"Costa Rican"}}
+  ,{"id":61,"nationality":{"en":"Croatian","de":"Kroatisch","sv":"Kroatisk","nl":"Kroatisch"}}
   ,{"id":62,"nationality":{"en":"Cuban","de":"Kubanisch","sv":"Kubanska","nl":"Cubaans"}}
   ,{"id":63,"nationality":{"en":"Curaçaoan","de":"Curaçaoaner","sv":"Curaçaoan","nl":"Curaçao"}}
   ,{"id":64,"nationality":{"en":"Cypriot","de":"Zypriotisch","sv":"Cypriotiska","nl":"Cypriotisch"}}
-  ,{"id":65,"nationality":{"en":"Czech","de":"Tschechisch","sv":"Tjeckiska","nl":"Tsjechisch"}}
+  ,{"id":65,"nationality":{"en":"Czech","de":"Tschechisch","sv":"Tjeck","nl":"Tsjechisch"}}
   ,{"id":66,"nationality":{"en":"Danish","de":"Dänisch","sv":"Danska","nl":"Deens"}}
   ,{"id":67,"nationality":{"en":"Djiboutian","de":"Dschibutisch","sv":"Djiboutian","nl":"Djiboutiaans"}}
   ,{"id":69,"nationality":{"en":"Dominican","de":"Dominikanisch","sv":"Dominican","nl":"Dominicaans"}}
@@ -70,59 +70,59 @@
   ,{"id":76,"nationality":{"en":"Estonian","de":"Estnisch","sv":"Estonian","nl":"Ests"}}
   ,{"id":77,"nationality":{"en":"Ethiopian","de":"Äthiopisch","sv":"Ethiopian","nl":"Ethiopisch"}}
   ,{"id":78,"nationality":{"en":"Falkland Islander","de":"Falkland-Insulaner","sv":"Falkland Islander","nl":"Falklandeiland"}}
-  ,{"id":79,"nationality":{"en":"Faroese","de":"Färöer","sv":"Färöiska","nl":"Faeröers"}}
-  ,{"id":80,"nationality":{"en":"Fijian","de":"Fidschianisch","sv":"fijianska","nl":"Fijisch"}}
-  ,{"id":200,"nationality":{"en":"Filipino","de":"Filipino","sv":"filippinska","nl":"Filipijns"}}
-  ,{"id":81,"nationality":{"en":"Finnish","de":"Finnisch","sv":"finska","nl":"Fins"}}
-  ,{"id":82,"nationality":{"en":"French","de":"Französisch","sv":"franska","nl":"Frans"}}
-  ,{"id":83,"nationality":{"en":"French Guianese","de":"Französisch-Guianisch","sv":"franska Guyanesiska","nl":"Frans-Guyaans"}}
+  ,{"id":79,"nationality":{"en":"Faroese","de":"Färöer","sv":"Färöbo","nl":"Faeröers"}}
+  ,{"id":80,"nationality":{"en":"Fijian","de":"Fidschianisch","sv":"Fijianska","nl":"Fijisch"}}
+  ,{"id":200,"nationality":{"en":"Filipino","de":"Filipino","sv":"Filippinare","nl":"Filipijns"}}
+  ,{"id":81,"nationality":{"en":"Finnish","de":"Finnisch","sv":"Finsk","nl":"Fins"}}
+  ,{"id":82,"nationality":{"en":"French","de":"Französisch","sv":"Franska","nl":"Frans"}}
+  ,{"id":83,"nationality":{"en":"French Guianese","de":"Französisch-Guianisch","sv":"Franska Guyanesiska","nl":"Frans-Guyaans"}}
   ,{"id":84,"nationality":{"en":"French Polynesian","de":"Französisch-Polynesisch","sv":"franska polynesiska","nl":"Frans Polynesisch"}}
-  ,{"id":86,"nationality":{"en":"Gabonese","de":"Gabunisch","sv":"gabonesiska","nl":"Gabonees"}}
-  ,{"id":87,"nationality":{"en":"Gambian","de":"Gambisch","sv":"gambiska","nl":"Gambiaans"}}
-  ,{"id":88,"nationality":{"en":"Georgian","de":"Georgisch","sv":"georgiska","nl":"Georgisch"}}
-  ,{"id":89,"nationality":{"en":"German","de":"Deutsch","sv":"Tyska","nl":" Duits"}}
-  ,{"id":90,"nationality":{"en":"Ghanaian","de":"Ghanaisch","sv":"Ghanesiska","nl":"Ghanees"}}
+  ,{"id":86,"nationality":{"en":"Gabonese","de":"Gabunisch","sv":"Gabonese","nl":"Gabonees"}}
+  ,{"id":87,"nationality":{"en":"Gambian","de":"Gambisch","sv":"Gambier","nl":"Gambiaans"}}
+  ,{"id":88,"nationality":{"en":"Georgian","de":"Georgisch","sv":"Georgier","nl":"Georgisch"}}
+  ,{"id":89,"nationality":{"en":"German","de":"Deutsch","sv":"Tysk","nl":" Duits"}}
+  ,{"id":90,"nationality":{"en":"Ghanaian","de":"Ghanaisch","sv":"Ghanan","nl":"Ghanees"}}
   ,{"id":91,"nationality":{"en":"Gibralterian","de":"Gibraltarer","sv":"Gibralterian","nl":"Gibralterian"}}
-  ,{"id":92,"nationality":{"en":"Greek","de":"Griechisch","sv":"Grekiska","nl":"Grieks"}}
+  ,{"id":92,"nationality":{"en":"Greek","de":"Griechisch","sv":"Grek","nl":"Grieks"}}
   ,{"id":94,"nationality":{"en":"Greenlander","de":"Grönländer","sv":"Grönlänningar","nl":"Groenlander"}}
-  ,{"id":95,"nationality":{"en":"Grenadian","de":"Grenadier","sv":"Grenadianska","nl":"Grenadiaans"}}
+  ,{"id":95,"nationality":{"en":"Grenadian","de":"Grenadier","sv":"Grenadiansk","nl":"Grenadiaans"}}
   ,{"id":96,"nationality":{"en":"Guadeloupean","de":"Guadeloupeanisch","sv":"Guadeloupean","nl":"Guadeloupeaan"}}
   ,{"id":97,"nationality":{"en":"Guamanian","de":"Guamanisch","sv":"Guamanian","nl":"Guamanian"}}
-  ,{"id":99,"nationality":{"en":"Guatemalan","de":"Guatemaltekisch","sv":"Guatemalanska","nl":"Guatemalan"}}
+  ,{"id":99,"nationality":{"en":"Guatemalan","de":"Guatemaltekisch","sv":"Guatemalan","nl":"Guatemalan"}}
   ,{"id":101,"nationality":{"en":"Guinean","de":"Guineer","sv":"Guinean","nl":"Guinees"}}
   ,{"id":103,"nationality":{"en":"Guyanese","de":"Guyanisch","sv":"Guyanese","nl":"Guyanese"}}
   ,{"id":104,"nationality":{"en":"Haitian","de":"Haitianisch","sv":"Haitian","nl":"Haïtiaans"}}
   ,{"id":107,"nationality":{"en":"Honduran","de":"Honduraner","sv":"Honduran","nl":"Hondures"}}
   ,{"id":108,"nationality":{"en":"Hong Konger","de":"Hongkonger","sv":"Hong Konger","nl":"Hong Konger"}}
-  ,{"id":111,"nationality":{"en":"Hungarian","de":"Ungarisch","sv":"ungerska","nl":"Hongaars"}}
+  ,{"id":111,"nationality":{"en":"Hungarian","de":"Ungarisch","sv":"Ungare","nl":"Hongaars"}}
   ,{"id":129,"nationality":{"en":"I-Kiribati","de":"I-Kiribati","sv":"I-Kiribati","nl":"I-Kiribati"}}
-  ,{"id":112,"nationality":{"en":"Icelander","de":"Isländer","sv":"islänning","nl":"IJslander"}}
-  ,{"id":113,"nationality":{"en":"Indian","de":"Indisch","sv":"indiska","nl":"Indiaas"}}
-  ,{"id":114,"nationality":{"en":"Indonesian","de":"Indonesier","sv":"indonesiska","nl":"Indonesisch"}}
-  ,{"id":116,"nationality":{"en":"Iranian","de":"Iraner","sv":"iranska","nl":"Iraans"}}
-  ,{"id":117,"nationality":{"en":"Iraqi","de":"Irakisch","sv":"irakiska","nl":"Iraans"}}
-  ,{"id":118,"nationality":{"en":"Irish","de":"Irisch","sv":"irländska","nl":"Iers"}}
-  ,{"id":120,"nationality":{"en":"Israeli","de":"Israelisch","sv":"israeliska","nl":"Israëlisch"}}
+  ,{"id":112,"nationality":{"en":"Icelander","de":"Isländer","sv":"Islänning","nl":"IJslander"}}
+  ,{"id":113,"nationality":{"en":"Indian","de":"Indisch","sv":"Indier","nl":"Indiaas"}}
+  ,{"id":114,"nationality":{"en":"Indonesian","de":"Indonesier","sv":"Indones","nl":"Indonesisch"}}
+  ,{"id":116,"nationality":{"en":"Iranian","de":"Iraner","sv":"Iranier","nl":"Iraans"}}
+  ,{"id":117,"nationality":{"en":"Iraqi","de":"Irakisch","sv":"Irakier","nl":"Iraans"}}
+  ,{"id":118,"nationality":{"en":"Irish","de":"Irisch","sv":"Irländsk","nl":"Iers"}}
+  ,{"id":120,"nationality":{"en":"Israeli","de":"Israelisch","sv":"Israelier","nl":"Israëlisch"}}
   ,{"id":121,"nationality":{"en":"Italian","de":"Italienisch","sv":"italienska","nl":"Italiaans"}}
-  ,{"id":60,"nationality":{"en":"Ivorian","de":"Ivorisch","sv":"ivorianska","nl":"Ivorisch "}}
+  ,{"id":60,"nationality":{"en":"Ivorian","de":"Ivorisch","sv":"Ivorianska","nl":"Ivorisch "}}
   ,{"id":122,"nationality":{"en":"Jamaican","de":"Jamaikanisch","sv":"Jamaicansk","nl":"Jamaicaans"}}
-  ,{"id":123,"nationality":{"en":"Japanese","de":"Japanisch","sv":"japansk","nl":"Japans"}}
-  ,{"id":125,"nationality":{"en":"Jordanian","de":"Jordanisch","sv":"jordansk","nl":"Jordaans"}}
-  ,{"id":126,"nationality":{"en":"Kazakhstani","de":"Kasachisch","sv":"kasakstan","nl":"Kazachs"}}
-  ,{"id":128,"nationality":{"en":"Kenyan","de":"Kenianisch","sv":"kenyansk","nl":"Keniaans"}}
-  ,{"id":214,"nationality":{"en":"Kittian","de":"Kretisch","sv":"kittiansk","nl":"Kittiaans"}}
-  ,{"id":132,"nationality":{"en":"Kuwaiti","de":"Kuwaitisch","sv":"kuwaitisk","nl":"Koeweits"}}
-  ,{"id":136,"nationality":{"en":"Kyrgyzstani","de":"Kirgisisch","sv":"kirgisistan","nl":"Kirgizië"}}
-  ,{"id":138,"nationality":{"en":"Laotian","de":"Laotisch","sv":"laotisk","nl":"Laotiaans"}}
-  ,{"id":139,"nationality":{"en":"Latvian","de":"Lettisch","sv":"lettisk","nl":"Lets"}}
-  ,{"id":140,"nationality":{"en":"Lebanese","de":"Libanese","sv":"libanesisk","nl":"Libanees"}}
-  ,{"id":142,"nationality":{"en":"Liberian","de":"Liberianisch","sv":"liberian","nl":"Liberiaans"}}
-  ,{"id":143,"nationality":{"en":"Libyan","de":"Libysch","sv":"Libysk","nl":"Libisch"}}
+  ,{"id":123,"nationality":{"en":"Japanese","de":"Japanisch","sv":"Japansk","nl":"Japans"}}
+  ,{"id":125,"nationality":{"en":"Jordanian","de":"Jordanisch","sv":"Jordansk","nl":"Jordaans"}}
+  ,{"id":126,"nationality":{"en":"Kazakhstani","de":"Kasachisch","sv":"Kasakstan","nl":"Kazachs"}}
+  ,{"id":128,"nationality":{"en":"Kenyan","de":"Kenianisch","sv":"Kenyansk","nl":"Keniaans"}}
+  ,{"id":214,"nationality":{"en":"Kittian","de":"Kretisch","sv":"Kittiansk","nl":"Kittiaans"}}
+  ,{"id":132,"nationality":{"en":"Kuwaiti","de":"Kuwaitisch","sv":"Kuwaitisk","nl":"Koeweits"}}
+  ,{"id":136,"nationality":{"en":"Kyrgyzstani","de":"Kirgisisch","sv":"Kirgisistan","nl":"Kirgizië"}}
+  ,{"id":138,"nationality":{"en":"Laotian","de":"Laotisch","sv":"Laotier","nl":"Laotiaans"}}
+  ,{"id":139,"nationality":{"en":"Latvian","de":"Lettisch","sv":"Lett","nl":"Lets"}}
+  ,{"id":140,"nationality":{"en":"Lebanese","de":"Libanese","sv":"Libanes","nl":"Libanees"}}
+  ,{"id":142,"nationality":{"en":"Liberian","de":"Liberianisch","sv":"Liberian","nl":"Liberiaans"}}
+  ,{"id":143,"nationality":{"en":"Libyan","de":"Libysch","sv":"Libyer","nl":"Libisch"}}
   ,{"id":144,"nationality":{"en":"Liechtensteiner","de":"Liechtensteiner","sv":"Liechtensteiner","nl":"Liechtensteiner"}}
   ,{"id":145,"nationality":{"en":"Lithunian","de":"Litauer","sv":"Litunian","nl":"Litouws"}}
   ,{"id":146,"nationality":{"en":"Luxembourger","de":"Luxemburger","sv":"Luxembourger","nl":"Luxemburgs"}}
   ,{"id":148,"nationality":{"en":"Macanese","de":"Makanese","sv":"Macanese","nl":"Macanees"}}
-  ,{"id":150,"nationality":{"en":"Macedonian","de":"Mazedonier","sv":"Makedonska","nl":"Macedonisch"}}
+  ,{"id":150,"nationality":{"en":"Macedonian","de":"Mazedonier","sv":"Makedonier","nl":"Macedonisch"}}
   ,{"id":163,"nationality":{"en":"Mahoran","de":"Mahorasisch","sv":"Mahoran","nl":"Mahoran"}}
   ,{"id":151,"nationality":{"en":"Malagasy","de":"Madagassisch","sv":"Malagasy","nl":"Malagasy"}}
   ,{"id":152,"nationality":{"en":"Malawian","de":"Malawisch","sv":"Malawian","nl":"Malawisch"}}
@@ -142,7 +142,7 @@
   ,{"id":169,"nationality":{"en":"Mongolian","de":"Mongolisch","sv":"Mongolian","nl":"Mongools"}}
   ,{"id":170,"nationality":{"en":"Montenegrin","de":"Montenegrinisch","sv":"Montenegrin","nl":"Montenegrijns"}}
   ,{"id":171,"nationality":{"en":"Montserratian","de":"Montserratisch","sv":"Montserratian","nl":"Montserratisch"}}
-  ,{"id":172,"nationality":{"en":"Moroccan","de":"Marokkanisch","sv":"Marockansk","nl":"Marokkaan"}}
+  ,{"id":172,"nationality":{"en":"Moroccan","de":"Marokkanisch","sv":"Marockan","nl":"Marokkaan"}}
   ,{"id":141,"nationality":{"en":"Mosotho","de":"Mosotho","sv":"Mosotho","nl":"Mosotho"}}
   ,{"id":34,"nationality":{"en":"Motswana","de":"Motswanisch","sv":"Motswana","nl":"Motswana"}}
   ,{"id":173,"nationality":{"en":"Mozambican","de":"Mosambikanisch","sv":"Mozambican","nl":"Mozambikaan"}}
@@ -151,7 +151,7 @@
   ,{"id":176,"nationality":{"en":"Nauruan","de":"Nauruisch","sv":"Nauruan","nl":"Nauruaans"}}
   ,{"id":177,"nationality":{"en":"Nepalese","de":"Nepalesisch","sv":"Nepalese","nl":"Nepalees"}}
   ,{"id":181,"nationality":{"en":"New Caledonian","de":"Neukaledonier","sv":"New Caledonian","nl":"Nieuw Caledonisch"}}
-  ,{"id":182,"nationality":{"en":"New Zealander","de":"Neuseeländer","sv":"New Zealand","nl":"Nieuw-Zeelander"}}
+  ,{"id":182,"nationality":{"en":"New Zealander","de":"Neuseeländer","sv":"New Zealander","nl":"Nieuw-Zeelander"}}
   ,{"id":276,"nationality":{"en":"Ni-Vanuatu","de":"Ni-Vanuatu","sv":"Ni-Vanuatu","nl":"Ni-Vanuatu"}}
   ,{"id":184,"nationality":{"en":"Nicaraguan","de":"Nicaraguaner","sv":"Nicaraguan","nl":"Nicaraguaan "}}
   ,{"id":186,"nationality":{"en":"Nigerian","de":"Nigerianer","sv":"Nigerian","nl":"Nigerian"}}
@@ -177,7 +177,7 @@
   ,{"id":207,"nationality":{"en":"Réunionese","de":"Réunioner","sv":"Réunionese","nl":"Réunionese"}}
   ,{"id":209,"nationality":{"en":"Romanian","de":"Rumänisch","sv":"Romanian","nl":"Roemeens"}}
   ,{"id":210,"nationality":{"en":"Russian","de":"Russisch","sv":"Ryska","nl":"Russisch"}}
-  ,{"id":211,"nationality":{"en":"Rwandan","de":"Ruander","sv":"Rwandiska","nl":"Rwandees"}}
+  ,{"id":211,"nationality":{"en":"Rwandan","de":"Ruander","sv":"Rwandisk","nl":"Rwandees"}}
   ,{"id":213,"nationality":{"en":"Saint Helenian","de":"St. Helenianer","sv":"Saint Helenian","nl":"Saint Helenian"}}
   ,{"id":215,"nationality":{"en":"Saint Lucian","de":"Lucianisch","sv":"Saint Lucian","nl":"Saint Lucian"}}
   ,{"id":218,"nationality":{"en":"Saint Vincentian","de":"St. Vincentianer","sv":"Saint Vincentian","nl":"Saint Vincentian"}}
@@ -198,24 +198,24 @@
   ,{"id":235,"nationality":{"en":"Somali","de":"Somalisch","sv":"Somali","nl":"Somalisch"}}
   ,{"id":237,"nationality":{"en":"South African","de":"Südafrikaner","sv":"South African","nl":"Zuid-Afrikaans"}}
   ,{"id":238,"nationality":{"en":"South Georgian","de":"Südgeorgisch","sv":"South Georgian","nl":"Zuid-Georgisch"}}
-  ,{"id":131,"nationality":{"en":"South Korean","de":"Südkoreaner","sv":"Sydkoreanska","nl":"Zuid-Koreaans"}}
-  ,{"id":239,"nationality":{"en":"South Sudanese","de":"Südsudanese","sv":"Sydsudanesiska","nl":"Zuid-Soedanees"}}
-  ,{"id":240,"nationality":{"en":"Spanish","de":"Spanisch","sv":"Spanska","nl":"Spaans"}}
-  ,{"id":241,"nationality":{"en":"Sri Lankan","de":"Srilankisch","sv":"Sri Lankanska","nl":"Sri Lankaans"}}
+  ,{"id":131,"nationality":{"en":"South Korean","de":"Südkoreaner","sv":"Sydkoreansk","nl":"Zuid-Koreaans"}}
+  ,{"id":239,"nationality":{"en":"South Sudanese","de":"Südsudanese","sv":"Sydsudaneser","nl":"Zuid-Soedanees"}}
+  ,{"id":240,"nationality":{"en":"Spanish","de":"Spanisch","sv":"Spansk","nl":"Spaans"}}
+  ,{"id":241,"nationality":{"en":"Sri Lankan","de":"Srilankisch","sv":"Sri Lankan","nl":"Sri Lankaans"}}
   ,{"id":230,"nationality":{"en":"St. Maartener","de":"St. Maartener","sv":"St. Maartener","nl":"St. Maartener"}}
   ,{"id":216,"nationality":{"en":"St. Martinois","de":"St. Martinoer","sv":"St. Martinois","nl":"St. Martinois"}}
-  ,{"id":242,"nationality":{"en":"Sudanese","de":"Sudanese","sv":"Sudanesiska","nl":"Soedanees"}}
+  ,{"id":242,"nationality":{"en":"Sudanese","de":"Sudanese","sv":"Sudanese","nl":"Soedanees"}}
   ,{"id":243,"nationality":{"en":"Surinamer","de":"Surinamer","sv":"Surinamer","nl":"Surinaams"}}
   ,{"id":245,"nationality":{"en":"Swazi","de":"Swasiländer","sv":"Swazi","nl":"Swazi"}}
-  ,{"id":246,"nationality":{"en":"Swedish","de":"Schwedisch","sv":"svenska","nl":"Zweeds"}}
-  ,{"id":247,"nationality":{"en":"Swiss","de":"Schweizer","sv":"schweiziska","nl":"Zwitsers"}}
-  ,{"id":248,"nationality":{"en":"Syrian","de":"Syrisch","sv":"syriska","nl":"Syrisch"}}
-  ,{"id":250,"nationality":{"en":"Taiwanese","de":"Taiwaner","sv":"taiwanesiska","nl":"Taiwanees"}}
-  ,{"id":251,"nationality":{"en":"Tajikistani","de":"Tadschikistaner","sv":"tadzjikistan","nl":"Tadzjikistaans"}}
-  ,{"id":252,"nationality":{"en":"Tanzanian","de":"Tansanisch","sv":"tanzaniska","nl":"Tanzanisch"}}
-  ,{"id":253,"nationality":{"en":"Thai","de":"Thailänder","sv":"thailändska","nl":"Thais"}}
-  ,{"id":254,"nationality":{"en":"Timorese","de":"Timoresen","sv":"timorese","nl":"Timorees"}}
-  ,{"id":255,"nationality":{"en":"Togolese","de":"Togolese","sv":"togolesiska","nl":"Togolees"}}
+  ,{"id":246,"nationality":{"en":"Swedish","de":"Schwedisch","sv":"Svenska","nl":"Zweeds"}}
+  ,{"id":247,"nationality":{"en":"Swiss","de":"Schweizer","sv":"schweizare","nl":"Zwitsers"}}
+  ,{"id":248,"nationality":{"en":"Syrian","de":"Syrisch","sv":"Syriska","nl":"Syrisch"}}
+  ,{"id":250,"nationality":{"en":"Taiwanese","de":"Taiwaner","sv":"Taiwanesiska","nl":"Taiwanees"}}
+  ,{"id":251,"nationality":{"en":"Tajikistani","de":"Tadschikistaner","sv":"Tadzjikistan","nl":"Tadzjikistaans"}}
+  ,{"id":252,"nationality":{"en":"Tanzanian","de":"Tansanisch","sv":"Tanzanian","nl":"Tanzanisch"}}
+  ,{"id":253,"nationality":{"en":"Thai","de":"Thailänder","sv":"Thai","nl":"Thais"}}
+  ,{"id":254,"nationality":{"en":"Timorese","de":"Timoresen","sv":"Timorese","nl":"Timorees"}}
+  ,{"id":255,"nationality":{"en":"Togolese","de":"Togolese","sv":"Togolesiska","nl":"Togolees"}}
   ,{"id":256,"nationality":{"en":"Tokelauan","de":"Tokelauisch","sv":"Tokelauan","nl":"Tokelauaans"}}
   ,{"id":257,"nationality":{"en":"Tongan","de":"Tonganisch","sv":"Tongan","nl":"Tongaans"}}
   ,{"id":258,"nationality":{"en":"Trinidadian","de":"Trinidadisch","sv":"Trinidadian","nl":"Trinidadisch"}}
