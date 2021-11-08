@@ -6,7 +6,8 @@ const {
   getNationalities,
   getIds,
   getIdList,
+  getCode,
   getNationalityList
 } = require('./nationalities-list')
 
-console.log(getNationalityList('nl'))
+console.log(getCode(265))

@@ -8,6 +8,7 @@ const idMapEN = {}
 const idMapDE = {}
 const idMapSV = {}
 const idMapNL = {}
+const codeMap = {}
 const mapData = object => {
   nationalityMapEN[object.nationality.en.toLowerCase()] = object.id
   nationalityMapDE[object.nationality.de.toLowerCase()] = object.id
@@ -17,6 +18,7 @@ const mapData = object => {
   idMapDE[object.id] = object.nationality.de
   idMapSV[object.id] = object.nationality.sv
   idMapNL[object.id] = object.nationality.nl
+  codeMap[object.id] = object.code
 }
 data.forEach(mapData)
 
@@ -51,6 +53,10 @@ exports.getNationality = function getNationality(id, lang) {
     case 'nl':
       return idMapNL[id]
   }
+}
+
+exports.getCode = function getCode(id) {
+  return codeMap[id]
 }
 
 exports.getNationalities = function getNationalities(lang) {
