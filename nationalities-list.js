@@ -60,7 +60,7 @@ exports.getCode = function getCode(id) {
 }
 
 exports.getNationalityByCode = function (code, lang) {
-  const { nationality } = data.filter(object => (object.code = code))[0]
+  const { nationality } = data.filter(object => object.code === code)[0]
   return nationality[lang.toLowerCase()]
 }
 
