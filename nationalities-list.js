@@ -59,6 +59,11 @@ exports.getCode = function getCode(id) {
   return codeMap[id]
 }
 
+exports.getNationalityByCode = function (code, lang) {
+  const { nationality } = data.filter(object => (object.code = code))[0]
+  return nationality[lang.toLowerCase()]
+}
+
 exports.getNationalities = function getNationalities(lang) {
   return data
     .map(function (object) {

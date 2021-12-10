@@ -44,7 +44,7 @@ Expects an array of nationalities objects containing `id` and `nationalityEN/nat
 }]
 ```
 
-### getnationality(code, lang)
+### getNationality(id, lang)
 en - English
 de - German
 sv - Swedish
